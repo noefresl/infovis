@@ -15,6 +15,7 @@ https://noefresl.github.io/infovis/Actividad3tableau.html
 
 Actividad 3 (RawGraphs):
 
+https://noefresl.github.io/infovis/Actividad3rawgraphs.html
 
 Actividad 3 ():
 
