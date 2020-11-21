@@ -11,7 +11,7 @@ Actividad 2 (Tableau): Covid-19
 
 Actividad 3 (Tableau): W46
 
-https://noefresl.github.io/infovis/Actividad3tableau
+https://noefresl.github.io/infovis/Actividad3tableau.html
 
 Actividad 3 (RawGraphs):
 
