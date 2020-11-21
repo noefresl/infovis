@@ -13,7 +13,7 @@ Actividad 3 (Tableau): W46
 
 https://noefresl.github.io/infovis/Actividad3tableau.html
 
-Actividad 3 (RawGraphs):
+Actividad 3 (RawGraphs): W46
 
 https://noefresl.github.io/infovis/Actividad3rawgraphs.html
 
