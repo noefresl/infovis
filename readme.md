@@ -17,5 +17,7 @@ Actividad 3 (RawGraphs): W46
 
 https://noefresl.github.io/infovis/Actividad3rawgraphs.html
 
-Actividad 3 ():
+Actividad 3 (Flourish): W46
+
+https://noefresl.github.io/infovis/Actividad3flourish.html
 
