@@ -16,5 +16,5 @@ https://noefresl.github.io/infovis/Actividad3tableau
 Actividad 3 (RawGraphs):
 
 
-Actividad 3 (Flooring):
+Actividad 3 ():
 
