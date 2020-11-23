@@ -21,3 +21,7 @@ Actividad 3 (Flourish): W46
 
 https://noefresl.github.io/infovis/Actividad3flourish.html
 
+
+Actividad 5 (Vegalite): tweets
+
+https://noefresl.github.io/infovis/Actividad4vegalite.html
