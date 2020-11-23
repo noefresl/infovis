@@ -25,3 +25,7 @@ https://noefresl.github.io/infovis/Actividad3flourish.html
 Actividad 4 (Vegalite): tweets
 
 https://noefresl.github.io/infovis/Actividad4vegalite.html
+
+Actividad 4 (Observable): tweets
+
+https://observablehq.com/d/bd5354947ec2cb4c
