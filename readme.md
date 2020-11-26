@@ -2,30 +2,31 @@ Introduccion:
 
 https://noefresl.github.io/infovis/index.html
 
-Actividad 1 (Tableau): Acceso a Internet 
+Actividad "Acceso a Internet" (Tableau):  
 
 https://noefresl.github.io/infovis/Actividad1.html
 
-Actividad 2 (Tableau): Covid-19
-
-
-Actividad 3 (Tableau): W46
+Actividad W46 (Tableau): 
 
 https://noefresl.github.io/infovis/Actividad3tableau.html
 
-Actividad 3 (RawGraphs): W46
+Actividad W46 (RawGraphs): 
 
 https://noefresl.github.io/infovis/Actividad3rawgraphs.html
 
-Actividad 3 (Flourish): W46
+Actividad W46 (Flourish): 
 
 https://noefresl.github.io/infovis/Actividad3flourish.html
 
 
-Actividad 4 (Vegalite): tweets
+Actividad tweets (Vegalite): 
 
 https://noefresl.github.io/infovis/Actividad4vegalite.html
 
-Actividad 4 (Observable): tweets
+Actividad tweets (Observable): 
 
 https://observablehq.com/d/bd5354947ec2cb4c
+
+Trabajo final 26.11.20:
+
+https://noefresl.github.io/infovis/trabajofinal.html
